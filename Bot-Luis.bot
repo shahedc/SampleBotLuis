@@ -1,0 +1,18 @@
+{
+    "name": "Bot-Luis",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "ff043240-8af0-11e9-a646-154647199607",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\shchowd\\source\\repos\\Costco\\CostcoBotLuis\\Bot-Luis.bot"
+}
